@@ -15,13 +15,7 @@
 <div width="100%" align="center"><a href="https://github.com/xorgxx/doctrine-encryptor-bundle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorgxx&repo=doctrine-encryptor-bundle&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/xorgxx/NeoxToPdfBundle" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorgxx&repo=NeoxToPdfBundle&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
-
-## 📊 Mes statistiques GitHub
-
-![Les statistiques GitHub de xorgxx](https://github-readme-stats.vercel.app/api?username=xorgxx&show_icons=true&count_private=true&theme=radical)
-
-
-##  GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xorgxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xorgxx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xorgxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
